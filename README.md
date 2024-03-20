@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csjiabin/csjiabin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/csjiabin/csjiabin/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=csjiabin&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjiabin&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=csjiabin&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=csjiabin&theme=xcode" /> </div>
